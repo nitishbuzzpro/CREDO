@@ -1,1 +1,1 @@
-# CREDO
+Problem Statement:- IT team has limited capacity and therefore, they are interested in solution that could help them prioritize important incidents. Everyincident is manually evaluated and labeled with Impact value which provide us information about incident importance. IT team wants to solve incidentswith high impact as soon as possible. Impact value may be updated during troubleshooting process.
